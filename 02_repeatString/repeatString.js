@@ -5,7 +5,6 @@ const repeatString = function(str,num) {
         for (let i = 0; i < num; i++){
             multiStr += str
         }
-    
         return multiStr
     } else {
         return "ERROR"
