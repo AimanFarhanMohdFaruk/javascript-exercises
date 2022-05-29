@@ -12,5 +12,19 @@ const fibonacci = function(value) {
   return b;
 };
 
+//fibonacci(3)
+//a = 0 , b = 1
+// temp = 1
+// b = 1
+// a = 1
+
+// temp = 1
+// b = 2
+// a = 1
+
+// temp = 2
+// b = 3
+// a = 2
+
 // Do not edit below this line
 module.exports = fibonacci;
